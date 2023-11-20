@@ -9,11 +9,10 @@ Unilever is a British-Dutch FMCG company, headquartered in London, England. Unil
 
 | Issue                            | Description                                                                                                      |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Lengthy Wait Times               | It takes approximately 60 minutes for employees to go to the canteen, wait in queues, collect their food, and find a table. This time can be better utilised for work or relaxation. |
+| Lengthy Wait Times               | It takes approximately 60 minutes for employees to go to the canteen, wait in queues, collect their food, and find a table. This time can be better utilized for work or relaxation. |
 | Limited Food Choices             | Employees often do not get the food they desire due to items running out of stock in the canteens.                  |
 | Food Wastage                     | The canteens currently dispose of a significant amount of unsold food, resulting in financial losses and environmental concerns. |
-
-|Inefficient use of time           |  A substantial amount of time (10 minutes) is spent travelling to and from the canteen using elevators as well as over 30 minutes queuing                                      up for orders, reducing the available time for dining and relaxation.|
+| Inefficient Use of Time           | A substantial amount of time (10 minutes) is spent traveling to and from the canteen using elevators, as well as over 30 minutes queuing up for orders, reducing the available time for dining and relaxation.|
 
 
 
