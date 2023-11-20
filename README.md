@@ -13,7 +13,7 @@ Unilever is a British-Dutch FMCG company, headquartered in London, England. Unil
 | Limited Food Choices             | Employees often do not get the food they desire due to items running out of stock in the canteens.                  |
 | Food Wastage                     | The canteens currently dispose of a significant amount of unsold food, resulting in financial losses and environmental concerns. |
 
-|Inefficient use of time           |  A substantial amount of time (10 minutes) is spent travelling to and from the canteen using elevators, reducing the available time for                                         dining and relaxation.
+|Inefficient use of time           |  A substantial amount of time (10 minutes) is spent travelling to and from the canteen using elevators as well as over 30 minutes queuing                                      up for orders, reducing the available time for dining and relaxation.|
 
 
 
