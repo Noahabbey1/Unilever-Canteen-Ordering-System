@@ -1,3 +1,6 @@
 # Unilever-Canteen-Ordering-System
-!![Alt text](paste-the-copied-image-url-here)
+![](home_screen.PNG)
 Unilever employees waste a lot of time during lunch. the process must be reviewed and streamlined to create better employee lunch time experience, in return this will increase their productivity which invariably leads to more revenue generation for Unilever.
+
+## Background 
+Unilever is a British-Dutch FMCG company, headquartered in London, England. Unilever is one of the oldest FMCG companies, and its products are available in around 190 countries. In its UK offices, Unilever has around 1500 employees which are spread across 12 floors. They have 2 canteens to cater to these 1500 employees. Each canteen can seat around 150 employees at a time.
