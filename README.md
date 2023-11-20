@@ -13,9 +13,10 @@ Lengthy Wait Times                  |  It takes approximately 60 minutes for emp
 :----------------------------------:|:----------------------------:
 
   Limited food choices              |  Employees often do not get the food they desire due to items running out of stock in the canteens.
-    Food wastage                     |   The canteens currently dispose of a significant amount of unsold food, resulting in financial losses and environmental concerns.
+    
   :----------------------------------:|:----------------------------:
-
+Food wastage                     |   The canteens currently dispose of a significant amount of unsold food, resulting in financial losses and environmental concerns.
+  :----------------------------------:|:----------------------------:
 
 
 
